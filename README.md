@@ -1,4 +1,4 @@
-# Automated Testing Readme
+# Automation Solutionz
 
 This repository contains a Java-based automated test suite using Selenium WebDriver for testing the functionality of a web application. The test suite navigates to the website "https://www.zeuz.ai/" and performs various actions such as clicking on buttons, filling out forms, selecting options from dropdowns, and clicking checkboxes.
 
